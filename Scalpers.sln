@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scalpers", "Scalpers\Scalpers.csproj", "{F37A5B4C-8285-4381-9281-546C7B84B319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37A5B4C-8285-4381-9281-546C7B84B319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37A5B4C-8285-4381-9281-546C7B84B319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37A5B4C-8285-4381-9281-546C7B84B319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37A5B4C-8285-4381-9281-546C7B84B319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC97DA27-7744-4E1C-B1C0-12B239A774EE}
+	EndGlobalSection
+EndGlobal
